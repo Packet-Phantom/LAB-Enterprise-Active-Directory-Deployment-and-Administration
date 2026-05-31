@@ -1,1 +1,1 @@
-# LAB-Enterprise-Active-Directory-Deployment-and-Administration
+# LAB: Enterprise AD Deployment and Administration
