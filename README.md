@@ -4,12 +4,18 @@
 This lab consist of the following tasks:
 <br />
 
-- <b>Azure VMs</b>
-- <b>Azure VMs</b>
-- <b>Azure VMs</b>
-- <b>Azure VMs</b>
-- <b>Azure VMs</b>
-- <b>Azure VMs</b>
+- <b>Setting up a Domain Controller VM</b>
+- <b>Assigning a Static IP</b>
+- <b>Connecting to VMs With RDP</b>
+- <b>Installing Active Directory Domain services</b>
+- <b>Promoting Server to Domain Controller</b>
+- <b>Creating Organizational Units, Users , and Security Groups</b>
+- <b>Joining a ClientVM to the Domain</b>
+- <b>Login Testing</b>
+- <b>Configuring Password Policies</b>
+- <b>Creating a Logon Script</b>
+- <b>Delegating Password Rest to Helpdesk</b>
+- <b>Moving Client VM to the Correct Branch OU</b>
 
 <h2>Services and Utilities Used</h2>
 
