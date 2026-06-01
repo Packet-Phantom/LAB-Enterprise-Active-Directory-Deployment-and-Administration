@@ -32,4 +32,4 @@ This lab consist of the following tasks:
 
 - [Project Document](https://github.com/Packet-Phantom/LAB-Enterprise-Active-Directory-Deployment-and-Administration/blob/main/Active_Directory_Documentation/Active_Diriectory_Project%20(1).pdf)
 - [Project Screenshots](https://github.com/Packet-Phantom/LAB-Enterprise-Active-Directory-Deployment-and-Administration/tree/main/Active_Directory_Documentation/Active_Directory_Screenshots)
-- [Project Cleanup]()
+- [Project Cleanup](https://github.com/Packet-Phantom/LAB-Enterprise-Active-Directory-Deployment-and-Administration/blob/main/Active_Directory_Documentation/IMPORTANT_Lab_CleanUp.pdf)
