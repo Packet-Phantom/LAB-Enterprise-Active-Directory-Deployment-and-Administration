@@ -5,7 +5,7 @@ Project consists of
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Services and Utilities Used</h2>
 
 - <b>Azure VMs</b>
 - <b>Active Dirctory</b>
@@ -16,4 +16,4 @@ Project consists of
 
 - <b>Windows Server 2025 Edition </b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Documentation and Walk-Through:</h2>
