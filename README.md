@@ -3,6 +3,7 @@
 <h2>Description</h2>
 This lab consist of the following tasks:
 <br />
+
 - <b>Azure VMs</b>
 - <b>Azure VMs</b>
 - <b>Azure VMs</b>
