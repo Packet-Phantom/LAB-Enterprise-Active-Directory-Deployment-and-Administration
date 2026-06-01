@@ -29,3 +29,7 @@ This lab consist of the following tasks:
 - <b>Windows Server 2025 Edition </b>
 
 <h2>Documentation and Walk-Through:</h2>
+
+- [Project Document](https://github.com/Packet-Phantom/LAB-Enterprise-Active-Directory-Deployment-and-Administration/blob/main/Active_Directory_Documentation/Active_Diriectory_Project%20(1).pdf)
+- [Project Screenshots]()
+- [Project Cleanup]()
