@@ -1,9 +1,14 @@
 # LAB: Enterprise AD Deployment and Administration
 
 <h2>Description</h2>
-Project consists of 
+This lab consist of the following tasks:
 <br />
-
+- <b>Azure VMs</b>
+- <b>Azure VMs</b>
+- <b>Azure VMs</b>
+- <b>Azure VMs</b>
+- <b>Azure VMs</b>
+- <b>Azure VMs</b>
 
 <h2>Services and Utilities Used</h2>
 
