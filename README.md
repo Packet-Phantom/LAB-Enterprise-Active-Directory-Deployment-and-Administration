@@ -26,6 +26,6 @@ This lab consist of the following tasks:
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2025 Edition </b> (21H2)
+- <b>Windows Server 2025 Edition </b>
 
 <h2>Documentation and Walk-Through:</h2>
